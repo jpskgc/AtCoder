@@ -1,3 +1,5 @@
 .DS_Store
 .idea
 workspace.cpp
+cmake-build-debug
+input.txt
